@@ -2,9 +2,11 @@
 
 This repository contains an update to the Mixamo add-on for Blender 4.x, enabling it to work with the latest version of Blender.
 
+FORK FROM https://github.com/BlenderBoi/mixamo_blender
+
 ## Installation
 
-1. Download the updated Mixamo add-on from this repository: [30377-artwork-mixamo_rig.zip](30377-artwork-mixamo_rig.zip).
+1. Download the updated Mixamo add-on from this repository: [30377-artwork-mixamo_rig.zip](mixamo_blender-1.1.2.zip).
 2. Install the add-on via Blender's add-ons menu.
 
 ## Usage
@@ -18,3 +20,4 @@ If you encounter any issues or have suggestions for improvements, feel free to o
 ## License
 
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.txt) file for details.
+
